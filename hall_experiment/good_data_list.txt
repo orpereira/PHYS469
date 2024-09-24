@@ -1,6 +1,7 @@
-/Users/oliviapereira/Desktop/PHYS469/hall_experiment/09182024/temp_sweep_0T.csv
-/Users/oliviapereira/Desktop/PHYS469/hall_experiment/09192024/temp_sweep_350mV_10mA.csv
-/Users/oliviapereira/Desktop/PHYS469/hall_experiment/09192024/temp_weep_170mV_10mA.csv
-/Users/oliviapereira/Desktop/PHYS469/hall_experiment/09232024/temp_sweep_120mV_10mA.csv
-/Users/oliviapereira/Desktop/PHYS469/hall_experiment/09232024/temp_sweep_200mV_10mA.csv
-/Users/oliviapereira/Desktop/PHYS469/hall_experiment/09232024/temp_sweep_250mV_new.csv
+/PHYS469/hall_experiment/09192024/170mV.csv
+/PHYS469/hall_experiment/09182024/0mV.csv
+/PHYS469/hall_experiment/09192024/350mV.csv
+/PHYS469/hall_experiment/09232024/120mV.csv
+/PHYS469/hall_experiment/09232024/200mV.csv
+/PHYS469/hall_experiment/09232024/250mV.csv
+/PHYS469/hall_experiment/09242024/300mV.csv
