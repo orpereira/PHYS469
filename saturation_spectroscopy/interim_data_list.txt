@@ -1,2 +1,0 @@
-/PHYS469/saturation_spectroscopy/raw_data/10-10-2024/run1.txt
-/PHYS469/saturation_spectroscopy/raw_data/10-10-2024/run3-split.txt

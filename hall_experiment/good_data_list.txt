@@ -1,7 +1,0 @@
-/PHYS469/hall_experiment/raw_data/09182024/0mV.csv
-/PHYS469/hall_experiment/raw_data/09232024/120mV.csv
-/PHYS469/hall_experiment/raw_data/09192024/170mV.csv
-/PHYS469/hall_experiment/raw_data/09232024/200mV.csv
-/PHYS469/hall_experiment/raw_data/09232024/250mV.csv
-/PHYS469/hall_experiment/raw_data/09242024/300mV.csv
-/PHYS469/hall_experiment/raw_data/09192024/350mV.csv
