@@ -1,0 +1,24 @@
+seconds_pre_waveform_query	1730218004.5219831
+seconds_post_waveform_query	1730218004.5688407
+xzero2	0
+xmultiplier2	9.9e+37
+yzero2	-4.25201762205e+47
+ymultiplier2	9.9e+37
+transfer_duty_cycle	1.0
+xzero3	0
+xmultiplier3	9.9e+37
+yzero3	-4.25201762205e+47
+ymultiplier3	9.9e+37
+DataboxPlot_Note	'Note'
+self.combo_binary	0
+self.combo_autoscript	1
+self.button_enabled	True
+self.button_multi	True
+self.button_link_x	True
+self.button_script	False
+self.number_file	0
+self.script	"x = ( d[0] )\ny = ( d[1], d[2] )\n\nxlabels = 'x'\nylabels = ( 'y2', 'y3' )\n"
+self.number_history	0
+self.text_log_note	'Note'
+
+x	y2	y3
