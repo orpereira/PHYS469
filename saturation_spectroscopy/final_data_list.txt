@@ -1,6 +1,8 @@
-/PHYS469/saturation_spectroscopy/raw_data/10-29-2024/nopump1.txt
-/PHYS469/saturation_spectroscopy/raw_data/10-29-2024/nopump2.txt
-/PHYS469/saturation_spectroscopy/raw_data/10-29-2024/nopump3.txt
-/PHYS469/saturation_spectroscopy/raw_data/10-29-2024/run1.txt
-/PHYS469/saturation_spectroscopy/raw_data/10-29-2024/run2.txt
-/PHYS469/saturation_spectroscopy/raw_data/10-29-2024/run5.txt
+/PHYS469/saturation_spectroscopy/raw_data/10-31-2024/nopump1.txt
+/PHYS469/saturation_spectroscopy/raw_data/10-31-2024/nopump2.txt
+/PHYS469/saturation_spectroscopy/raw_data/10-31-2024/nopump3.txt
+/PHYS469/saturation_spectroscopy/raw_data/10-31-2024/run1.txt
+/PHYS469/saturation_spectroscopy/raw_data/10-31-2024/run5.txt
+/PHYS469/saturation_spectroscopy/raw_data/10-31-2024/nopump4.txt
+/PHYS469/saturation_spectroscopy/raw_data/10-31-2024/run2.txt
+/PHYS469/saturation_spectroscopy/raw_data/10-31-2024/nopump5.txt
